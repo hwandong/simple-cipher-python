@@ -1,0 +1,3 @@
+{
+  "simple_cipher_test.py::SimpleCipherTest::test_decode_always_returns_downcase_string": true
+}
